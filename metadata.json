@@ -1,0 +1,7 @@
+{
+  "name": "Med Care Plus - Multi Speciality Clinic",
+  "description": "Official website for Med Care Plus Multi Speciality Clinic and Day Care Center in Hubballi. Providing reliable, family-centered medical care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
